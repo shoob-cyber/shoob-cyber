@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shoob-cyber&column=6&theme=onestar&no-frame=true&no-bg=true&title=Stars,Commit,Repositories,Followers,Issues,PullRequest" alt="shoob-cyber" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shoob-cyber&column=6&theme=onestar&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Experience,Issues,PullRequest,Commits" alt="shoob-cyber" />
   </a> 
 </p>
 
