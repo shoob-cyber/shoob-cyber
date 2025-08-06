@@ -2,8 +2,11 @@
 <h3 align="center">Code with intent. Build with impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoob-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="shoob-cyber" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoob-cyber" alt="shoob-cyber" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shoob-cyber&theme=onestar" alt="shoob-cyber" />
+  </a> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/shobu_8" target="blank"><img src="https://img.shields.io/twitter/follow/shobu_8?logo=twitter&style=for-the-badge" alt="shobu_8" /></a> </p>
 
