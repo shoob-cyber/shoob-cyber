@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Seikh Sahabuddin Mohammed</h1>
 <h3 align="center">Code with intent. Build with impact.</h3>
 
+<p align="center">
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shoob-cyber&column=6&theme=onestar&no-frame=true&no-bg=true&title=Stars,Repositories,Experience,PullRequest,Commits" alt="shoob-cyber" />
   </a> 
+</p>
 </p>
 
 <p align="left"> <a href="https://twitter.com/shobu_8" target="blank"><img src="https://img.shields.io/twitter/follow/shobu_8?logo=twitter&style=for-the-badge" alt="shobu_8" /></a> </p>
