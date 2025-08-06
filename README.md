@@ -10,7 +10,7 @@
 - 📫 How to reach me **sksahib807@gmail.com**
 
 - ⚡ Fun fact **Coders don’t sleep... they just cache and reload! 😎💻**
-- [![trophy](https://github-profile-trophy.vercel.app/?username=shoob-cyber)](https://github.com/shoob-cyber/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=shoob-cyber&theme=onedark)](https://github.com/shoob-cyber/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
