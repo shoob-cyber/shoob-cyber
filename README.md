@@ -64,8 +64,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoob-cyber&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shoob-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoob-cyber&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="180"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoob-cyber&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoob-cyber&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoob-cyber&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
