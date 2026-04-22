@@ -13,6 +13,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 Currently learning **React, Node.js & JavaScript**
+- 💼 I'm also a **Creative Freelancer**
 - 📄 Check out my experience: [View Resume](https://drive.google.com/file/d/1ZdVeXvjiLMTNFQ9zdiqhHeixKhrw9ZMT/view?usp=sharing)
 - 📫 Reach me at: **sahabuddin.seikh28@gmail.com**
 
@@ -21,8 +22,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?shoob-cyber=ryo-ma&theme=dracula)">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=shoob-cyber&theme=radical&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -30,12 +30,8 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/shobu8" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/shobu10" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  <a href="https://twitter.com/shobu8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://instagram.com/shobu10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
