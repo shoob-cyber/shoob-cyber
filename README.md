@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seikh Sahabuddin Mohammed</h1>
 <h3 align="center">A passionate Frontend Developer & Creative Freelancer from India 🇮🇳</h3>
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThhZDhoaXpuaWM4YnNwNXNwOWRjNjU5ZXB1MmVleTFlY2pldGxyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shoob-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/shobu8">
