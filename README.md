@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Seikh Sahabuddin Mohammed</h1>
-<h3 align="center">A passionate Frontend Developer & Creative Freelancer from India 🇮🇳</h3>
+<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 <img width="360" height="378" align="center" alt="Cat Coding GIF" src="https://github.com/user-attachments/assets/bbe87f73-dd89-4d41-acfc-9252b7d46e94" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shoob-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
